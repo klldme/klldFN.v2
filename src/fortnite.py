@@ -27,7 +27,7 @@ import crayons
 
 
 
-with open('config.js') as f:
+with open('src/config.js') as f:
     try:
         data = json.load(f)
     except json.decoder.JSONDecodeError as e:
@@ -38,7 +38,7 @@ with open('config.js') as f:
 
 
 server = None
-filename = 'device_auths.json'
+filename = 'src/device_auths.json'
 
 
 

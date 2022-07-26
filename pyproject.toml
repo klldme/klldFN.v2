@@ -1,9 +1,8 @@
 [tool.poetry]
 name = "klldFN.v2"
 version = "0.0.1"
-description = ""
-authors = ["klld <kll.d.repl.co@hotmail.com
->"]
+description = "klldbot15"
+authors = ["klldbot15 <klldme@proton.me>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
