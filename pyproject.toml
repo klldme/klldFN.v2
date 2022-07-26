@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "klldFN.v2"
-version = "0.0.1"
+version = "1.0.1"
 description = "klldbot15"
 authors = ["klldbot15 <klldme@proton.me>"]
 
